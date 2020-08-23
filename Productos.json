@@ -1,0 +1,38 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "marca": "Lenovo",
+            "modelo": "IdeaPad C340",
+            "precio": 136.999,
+            "detalle":
+             "Procesador Intel® Core i7 de 8va generación - Gráficos NVIDIA® GeForce MX230; Pantalla FHD de 15.6”, IPS - Memoria 16 GB Alm. 1TB PCIe -Hasta 1TB SATA HDD - Sonido 2 altavoces de 2 W con Dolby Audio™ - Batería 8 horas de duración de la batería - Soporta Rapid Charge con adaptador de 65W - Wi-Fi/Bluetooth 802.11ac 2x2 Wi-Fi + Bluetooth 4.2 - USB tipo C - Lector de tarjetas.",
+            "img": "https://www.lenovo.com/medias/ideapad-c340-15-hero.png?context=bWFzdGVyfC9lbWVhL2ltYWdlcy98MjU4NjMxfGltYWdlL3BuZ3wvZW1lYS9pbWFnZXMvaDM5L2g4Yy8xMDUyMTY5ODg2MTA4Ni5wbmd8NDhjMzE1YWM3MTc0MTc5ODNiNzJmOTIzNjI0YmU4YTJjMDZjOTQ5N2FiMjE5Mzc2YjAyZTRmOTgxNDQzMmU0ZA"
+        },
+        {
+            "id": 2,
+            "marca": "Lenovo",
+            "modelo": "IdeaPad 5 (15”, Intel)",
+            "precio": 6499.95,
+            "detalle": "Procesamiento Intel® Core™ de 10ma generación - Pantalla 15.6”;FHD táctil opcional con bordes estrechos - Tapa de privacidad en la cámara web y lector de huellas digitales opcional - Altavoces Dolby Audio™ - Incluye 1 puerto USB-C & soporta Rapid Charge.",
+            "img": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-5-15in-intel-hero.png?context=bWFzdGVyfHJvb3R8Mjk0NTYxfGltYWdlL3BuZ3xoNzcvaGNhLzEwNzQ2MjI0OTM0OTQyLnBuZ3wzYmE2NzQ5MmY0ZmM0NzNiMjI4YmJkNjNmZDlhMTQ3YWM3NzBhZTNlNDAyMmM2M2RmZGJkNDI0NjBjYWY1ZWJk"
+        },
+        {
+            "id": 3,
+            "marca": "Lenovo",
+            "modelo": "ThinkPad X390",
+            "precio": 155.999,
+            "detalle": "Portátil empresarial de 13.3 con el tamaño de una de 12 más de 17 horas de duración de la batería - Características de seguridad mejoradas como PrivacyGuard con PrivacyAlert y ThinkShutter - Memoria Intel® Optane opcional para mayor rendimiento.",
+            "img": "https://www.lenovo.com/medias/lenovo-thinkpad-x390-hero-1126.png?context=bWFzdGVyfHJvb3R8NzM5NjZ8aW1hZ2UvcG5nfGhlOC9oZGYvMTA2NzM1MzY0OTk3NDIucG5nfDNjOGZmNmFjYjhiNmU4N2E0OTg2NGM2Mjk0MWYxOWYwNWVhNWI5ZWJjNWIzOGI4MDc2NWMzM2U2ZjRhMjQyOTE"
+        },
+        {
+            "id": 4,
+            "marca": "Lenovo",
+            "modelo": "Legion 5i",
+            "precio": 149.999,
+            "detalle": "Desarrollada por procesadores hasta Intel® Core™ i7 H de 10ma generación - Windows 10 Home - Gráficos hasta NVIDIA® GeForce RTX™ - Diseño “limpio” y minimalista - Pantalla de 15.6” FHD IPS con hasta 500 nits, 100% sRGB gamut y refresh rate de hasta 240Hz - Algunos puertos y características pueden variar según el modelo.",
+            "img": "https://www.lenovo.com/medias/lenovo-laptop-legion-5-15-intel-subseries-hero.png?context=bWFzdGVyfHJvb3R8MjM0ODUxfGltYWdlL3BuZ3xoOTgvaGI1LzEwODQ0NjI1NzY0MzgyLnBuZ3xkZGI1ZTNkNDNhZjhkMjNlZDc5ZTQ4OTA1YjMxOTI2MDM1OGFmNDFhN2YyMDdiYWNlNTRmOGY5M2Y4MGU4Y2Ix"
+        }
+        
+    ]
+}
