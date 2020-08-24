@@ -7,23 +7,31 @@
             "precio": 136.999,
             "detalle":
              "Procesador Intel® Core i7 de 8va generación - Gráficos NVIDIA® GeForce MX230; Pantalla FHD de 15.6”, IPS - Memoria 16 GB Alm. 1TB PCIe -Hasta 1TB SATA HDD - Sonido 2 altavoces de 2 W con Dolby Audio™ - Batería 8 horas de duración de la batería - Soporta Rapid Charge con adaptador de 65W - Wi-Fi/Bluetooth 802.11ac 2x2 Wi-Fi + Bluetooth 4.2 - USB tipo C - Lector de tarjetas.",
-            "img": "https://www.lenovo.com/medias/ideapad-c340-15-hero.png?context=bWFzdGVyfC9lbWVhL2ltYWdlcy98MjU4NjMxfGltYWdlL3BuZ3wvZW1lYS9pbWFnZXMvaDM5L2g4Yy8xMDUyMTY5ODg2MTA4Ni5wbmd8NDhjMzE1YWM3MTc0MTc5ODNiNzJmOTIzNjI0YmU4YTJjMDZjOTQ5N2FiMjE5Mzc2YjAyZTRmOTgxNDQzMmU0ZA"
+            "img": "https://www.lenovo.com/medias/ideapad-c340-15-hero.png?context=bWFzdGVyfC9lbWVhL2ltYWdlcy98MjU4NjMxfGltYWdlL3BuZ3wvZW1lYS9pbWFnZXMvaDM5L2g4Yy8xMDUyMTY5ODg2MTA4Ni5wbmd8NDhjMzE1YWM3MTc0MTc5ODNiNzJmOTIzNjI0YmU4YTJjMDZjOTQ5N2FiMjE5Mzc2YjAyZTRmOTgxNDQzMmU0ZA",
+            "link": https://www.lenovo.com/ar/es/laptops/ideapad/ideapad-c-series/Lenovo-IdeaPad-C340-14IWL/p/88IPC301187
+            
         },
         {
             "id": 2,
             "marca": "Lenovo",
             "modelo": "IdeaPad 5 (15”, Intel)",
-            "precio": 6499.95,
+            "precio": 98.999,
             "detalle": "Procesamiento Intel® Core™ de 10ma generación - Pantalla 15.6”;FHD táctil opcional con bordes estrechos - Tapa de privacidad en la cámara web y lector de huellas digitales opcional - Altavoces Dolby Audio™ - Incluye 1 puerto USB-C & soporta Rapid Charge.",
-            "img": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-5-15in-intel-hero.png?context=bWFzdGVyfHJvb3R8Mjk0NTYxfGltYWdlL3BuZ3xoNzcvaGNhLzEwNzQ2MjI0OTM0OTQyLnBuZ3wzYmE2NzQ5MmY0ZmM0NzNiMjI4YmJkNjNmZDlhMTQ3YWM3NzBhZTNlNDAyMmM2M2RmZGJkNDI0NjBjYWY1ZWJk"
+            "img": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-5-14-intel-hero.png?context=bWFzdGVyfHJvb3R8Mjc2NDczfGltYWdlL3BuZ3xoOGUvaDIxLzEwNzQ4OTkxNDcxNjQ2LnBuZ3wzOGMzNDA5MDIyNDg1MDEyOGRlZmU1MTBkMTBjMWE3YTAyOGI5MGFiMWE2ZjJlMTQyOWQxYjYyZjYxMzc4OGZj",
+            "link": "https://www.lenovo.com/ar/es/laptops/ideapad/serie-500/IdeaPad-5-14IIL05/p/88IPS501390"
         },
         {
             "id": 3,
             "marca": "Lenovo",
-            "modelo": "ThinkPad X390",
-            "precio": 155.999,
-            "detalle": "Portátil empresarial de 13.3 con el tamaño de una de 12 más de 17 horas de duración de la batería - Características de seguridad mejoradas como PrivacyGuard con PrivacyAlert y ThinkShutter - Memoria Intel® Optane opcional para mayor rendimiento.",
-            "img": "https://www.lenovo.com/medias/lenovo-thinkpad-x390-hero-1126.png?context=bWFzdGVyfHJvb3R8NzM5NjZ8aW1hZ2UvcG5nfGhlOC9oZGYvMTA2NzM1MzY0OTk3NDIucG5nfDNjOGZmNmFjYjhiNmU4N2E0OTg2NGM2Mjk0MWYxOWYwNWVhNWI5ZWJjNWIzOGI4MDc2NWMzM2U2ZjRhMjQyOTE"
+            "modelo": "ThinkPad X1 Yoga",
+            "precio": 228.999,
+            "detalle": "Convertible 2 en 1 con bisagra de 360° 
+            "Hasta 18 horas de duración de batería"
+            "Características de seguridad ThinkShield incorporadas" 
+            "Incluye el lápiz recargable ThinkPad Pro"
+             "Pantalla 4K con Dolby Vision™ opcional y sistema de sonido Dolby Atmos™",
+            "img": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-yoga-gen4-subseries-hero.png?context=bWFzdGVyfHJvb3R8NjMwMDl8aW1hZ2UvcG5nfGgwOC9oZTEvMTA4MTIxNjIxNDYzMzQucG5nfGExZGY2Y2Q3MTg2NGNiZDY2MjBjYjdhYjY3MTdlMDYxODQ0NmE0Y2M5MjMyMDAxYzA2NDY1MzBlNTk2MjdmMmQ",
+            "link": "https://www.lenovo.com/ar/es/laptops/thinkpad/thinkpad-yoga/X1-Yoga-Gen-4/p/22TP2TXX14Y"
         },
         {
             "id": 4,
