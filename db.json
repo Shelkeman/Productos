@@ -5,8 +5,7 @@
             "marca": "Lenovo",
             "modelo": "IdeaPad C340",
             "precio": 136.999,
-            "detalle":
-             "Procesador Intel® Core i7 de 8va generación - Gráficos NVIDIA® GeForce MX230; Pantalla FHD de 15.6”, IPS - Memoria 16 GB Alm. 1TB PCIe -Hasta 1TB SATA HDD - Sonido 2 altavoces de 2 W con Dolby Audio™ - Batería 8 horas de duración de la batería - Soporta Rapid Charge con adaptador de 65W - Wi-Fi/Bluetooth 802.11ac 2x2 Wi-Fi + Bluetooth 4.2 - USB tipo C - Lector de tarjetas.",
+            "detalle": "Procesador Intel® Core i7 de 8va generación - Gráficos NVIDIA® GeForce MX230; Pantalla FHD de 15.6'', IPS - Memoria 16 GB Alm. 1TB PCIe -Hasta 1TB SATA HDD - Sonido 2 altavoces de 2 W con Dolby Audio™ - Batería 8 horas de duración de la batería - Soporta Rapid Charge con adaptador de 65W - Wi-Fi/Bluetooth 802.11ac 2x2 Wi-Fi + Bluetooth 4.2 - USB tipo C - Lector de tarjetas.",
             "img": "https://www.lenovo.com/medias/ideapad-c340-15-hero.png?context=bWFzdGVyfC9lbWVhL2ltYWdlcy98MjU4NjMxfGltYWdlL3BuZ3wvZW1lYS9pbWFnZXMvaDM5L2g4Yy8xMDUyMTY5ODg2MTA4Ni5wbmd8NDhjMzE1YWM3MTc0MTc5ODNiNzJmOTIzNjI0YmU4YTJjMDZjOTQ5N2FiMjE5Mzc2YjAyZTRmOTgxNDQzMmU0ZA",
             "link": "https://www.lenovo.com/ar/es/laptops/ideapad/ideapad-c-series/Lenovo-IdeaPad-C340-14IWL/p/88IPC301187"
             
@@ -14,9 +13,9 @@
         {
             "id": 2,
             "marca": "Lenovo",
-            "modelo": "IdeaPad 5 (15”, Intel)",
+            "modelo": "IdeaPad 5 (15'', Intel)",
             "precio": 98.999,
-            "detalle": "Procesamiento Intel® Core™ de 10ma generación - Pantalla 15.6”;FHD táctil opcional con bordes estrechos - Tapa de privacidad en la cámara web y lector de huellas digitales opcional - Altavoces Dolby Audio™ - Incluye 1 puerto USB-C & soporta Rapid Charge.",
+            "detalle": "Procesamiento Intel® Core™ de 10ma generación - Pantalla 15.6” - FHD táctil opcional con bordes estrechos - Tapa de privacidad en la cámara web y lector de huellas digitales opcional - Altavoces Dolby Audio™ - Incluye 1 puerto USB-C & soporta Rapid Charge.",
             "img": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-5-14-intel-hero.png?context=bWFzdGVyfHJvb3R8Mjc2NDczfGltYWdlL3BuZ3xoOGUvaDIxLzEwNzQ4OTkxNDcxNjQ2LnBuZ3wzOGMzNDA5MDIyNDg1MDEyOGRlZmU1MTBkMTBjMWE3YTAyOGI5MGFiMWE2ZjJlMTQyOWQxYjYyZjYxMzc4OGZj",
             "link": "https://www.lenovo.com/ar/es/laptops/ideapad/serie-500/IdeaPad-5-14IIL05/p/88IPS501390"
         },
